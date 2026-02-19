@@ -186,9 +186,5 @@
       <id>nexus-releases</id> <!-- ID for stable releases -->
       <url>http://localhost:8081/repository/Simple-Java/</url>
    </repository>
-   <snapshotRepository>
-      <id>nexus-snapshots</id> <!-- ID for development builds -->
-      <url>http://localhost:8081/repository/Simple-Java/</url>
-   </snapshotRepository>
 </distributionManagement>
 </project>
