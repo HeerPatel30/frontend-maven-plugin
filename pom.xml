@@ -218,7 +218,7 @@
 </profiles>
 <distributionManagement>
    <snapshotRepository>
-      <id>nexus-snapshots</id> <!-- ID for development builds -->
+      <id>mv</id> <!-- ID for development builds -->
       <url>http://192.168.0.42:8081/repository/Simple-Java/</url>
    </snapshotRepository>
 </distributionManagement>
